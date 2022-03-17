@@ -43,6 +43,7 @@ p img, li img, h1 img, h2 img,h3 img, h4 img, dt img, td img {
 
 
 nav {
+    font-size: large ;
 	font-variant: small-caps ;
 }
 
